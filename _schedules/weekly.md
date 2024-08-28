@@ -12,6 +12,7 @@ timeline:
   - '9:00 PM'
   - '10:30 PM'
   - '11:00 PM'
+  - '11:30 PM'
   - '11:59 PM'
 schedule:
   - name: Monday
@@ -20,7 +21,7 @@ schedule:
     events:
       - name: E-Discussion Deadline
         start: 11:00 PM
-        end: 11:59 PM
+        end: 11:30 PM
         location: Perusall
   - name: Thursday
   - name: Friday
