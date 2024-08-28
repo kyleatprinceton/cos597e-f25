@@ -19,9 +19,9 @@ schedule:
   - name: Wednesday
     events:
       - name: E-Discussion Deadline
-        start: 12:30 PM
-        end: 2:00 PM
-        location: N/A
+        start: 11:00 PM
+        end: 11:59 PM
+        location: Perusall
   - name: Thursday
   - name: Friday
     events:
