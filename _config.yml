@@ -23,15 +23,17 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.9.0
-color_scheme: light
+color_scheme: dark
 search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
-    - 'https://kevinl.info'
-  Just the Class on GitHub:
-    - 'https://github.com/kevinlin1/just-the-class'
+  Registrar:
+    - 'https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=017431'
+  Zotero:
+    - 'http://zotero.org/groups/5463939'
+  Perusall:
+    - 'https://princeton.instructure.com/courses/16429/external_tools/2724?display=borderless'
 footer_content:
 
 # Collections for website data
