@@ -19,6 +19,12 @@ network architecture, computational structures for physical-layer
 processing, millimeter-wave reconfigurable intelligent surfaces, and
 congestion control/queue management.
 
+## Schedule
+
+- Wednesdays, 11:50 PM: Online E-Discussion Deadline
+- Fridays, 1:30 PM--2:50 PM: Meeting A
+- Fridays, 3:00 PM--4:20 PM: Meeting B
+
 ## Grading
 
 - Class/Precept Participation: 30% (of this, 50% Perusall, 50% in-person)
