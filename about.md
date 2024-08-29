@@ -8,7 +8,7 @@ description: >-
 # Advanced Topics in Computer Science- Recent Advances in Wireless Networks
 {:.no_toc}
 
-![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i.gif)
+![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i.gif){:width="75%"}
 
 This graduate seminar will explore selected topics in wireless
 networks drawn from the recent research literature and industry. The
