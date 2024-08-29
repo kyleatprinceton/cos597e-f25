@@ -1,5 +1,5 @@
 ---
-title: Weeks 1-2: Internet & 5G Architecture
+title: Weeks 1-2 (Internet & 5G Architecture)
 ---
 
 Sep 6 

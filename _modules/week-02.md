@@ -1,5 +1,5 @@
 ---
-title: Weeks 3-5: Wireless-Cognizant Congestion Control & 5G Radio Access Network Slicing
+title: Weeks 3-5 (Wireless-Cognizant Congestion Control & 5G Radio Access Network Slicing)
 ---
 
 Sep 20
