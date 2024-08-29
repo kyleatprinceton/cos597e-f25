@@ -20,11 +20,12 @@ author: Kyle Jamieson
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
+favicon_ico: "/assets/images/favicon.ico"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.9.0
 color_scheme: princeton
-search_enabled: true
+search_enabled: false
 heading_anchors: true
 permalink: pretty
 aux_links:
@@ -34,7 +35,12 @@ aux_links:
     - 'http://zotero.org/groups/5463939'
   Perusall:
     - 'https://princeton.instructure.com/courses/16429/external_tools/2724?display=borderless'
-footer_content:
+footer_content: "Copyright &copy; 2024 Kyle Jamieson."
+
+callouts:
+  note:
+    title: Note
+    color: green
 
 # Collections for website data
 collections:

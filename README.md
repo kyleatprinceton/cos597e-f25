@@ -25,7 +25,6 @@ congestion control/queue management.
 {:style="text-align:center;"}
 ![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i_t.gif){:width="65%"}
 
-
 ## Schedule
 
 - Thursdays, 11:59 PM: Online E-Discussion Deadline
