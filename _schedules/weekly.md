@@ -8,12 +8,14 @@ timeline:
   - '6:00 PM'
   - '7:00 PM'
   - '8:00 PM'
+  - '9:00 PM'
 schedule:
   - name: Monday
   - name: Tuesday
   - name: Wednesday
     events:
       - name: E-Discussion Deadline
+        offset: 500
         start: 11:30 PM
         end: 11:59 PM
         location: Perusall
