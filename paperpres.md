@@ -20,7 +20,7 @@ impact on the field.
 Presenters should also come prepared with questions and ideas to seed
 the discussion, both based on their own thoughts, and also based on
 questions/feedback from the class on Perusall (available by the
-Wednesday 11:59 PM deadline).
+Thursday 11:59 PM deadline).
 
 Non-presenters should come prepared to actively participate in the
 discussion, and should have read the paper in detail prior to class

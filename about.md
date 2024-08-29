@@ -24,7 +24,7 @@ congestion control/queue management.
 
 ## Schedule
 
-- Wednesdays, 11:50 PM: Online E-Discussion Deadline
+- Thursdays, 11:59 PM: Online E-Discussion Deadline
 - Fridays, 1:30 PM--2:50 PM: Seminar Meeting in 302 Computer Science
 - Fridays, 3:00 PM--4:20 PM: Seminar Meeting in 302 Computer Science
 
