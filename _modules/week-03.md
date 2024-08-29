@@ -1,23 +1,19 @@
 ---
-title: Basic Data Structures
+title: Weeks 3-5: Wireless-Cognizant Congestion Control & 5G Radio Access Network Slicing
 ---
 
-Oct 5
+Sep 20
 : [Linked Lists & Encapsulation](#)
   : [3.1](#), [2.2](#), [2.3](#)
 
-Oct 6
+Sep 27
 : **Section**{: .label .label-purple }[Linked Lists](#)
   : [Solution](#)
 
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
+Oct 4 1:30 PM
 : **Lab**{: .label .label-purple } [Resizing Arrays](#)
 
-Oct 9
+Oct 4 3:00 PM
 : [Runtime Analysis](#)
   : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+: **Inital Project Proposal due**{: .label .label-red }

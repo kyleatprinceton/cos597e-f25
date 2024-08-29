@@ -1,17 +1,17 @@
 ---
-title: Introduction to Java
+title: Weeks 1-2: Internet & 5G Architecture
 ---
 
-Sep 28
-: [Java & Git](#)
+Sep 6 1:30 PM
+: [Seminar Intro (KJ)](#)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
-  : [Solution](#)
+Sep 6 3:00 PM
+: **Paper Discussion**{: .label .label-purple }[Zipper](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/zipper)
+  : [XXX](#)
 
-Sep 30
-: [Variables & Objects](#)
+Sep 13
+: [5G Network Architecture II (KJ)](#)
   : [1.2](#), [2.1](#)
 
 Oct 1
