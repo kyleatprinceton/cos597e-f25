@@ -38,8 +38,8 @@ aux_links:
 footer_content: "Copyright &copy; 2024 Kyle Jamieson."
 
 callouts:
-  note:
-    title: Note
+  assignment:
+    title: Assignment
     color: green
 
 # Collections for website data

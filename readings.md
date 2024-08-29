@@ -13,6 +13,7 @@ should closely read each paper and add comments and questions on
 Perusall by 11:59 PM Eastern Time on Wednesday night before the
 corresponding meeting.
 
+{: .assignment}
 Please provide five to 10 substantive comments (some could be in
 thread replies) for each paper and also follow the comments from the
 other students and the course staff.
