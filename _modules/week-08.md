@@ -7,6 +7,7 @@ Oct 25
 
 Oct 25
 : **Paper Discussion**{: .label .label-purple }[MDI-MIMO](#)
+: **Final Project Proposal due**{: .label .label-red}
 
 Nov 1
 : **Paper Discussion**{: .label .label-purple }[DetNet](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/detnet)

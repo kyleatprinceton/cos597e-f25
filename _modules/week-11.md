@@ -7,5 +7,5 @@ Nov 15
   : [Prof Longfei Shangguan](https://shanggdlk.github.io/)
 
 Nov 15
-: **Paper Discussion**{: .label .label-green }Interactive Video
+: **Guest Lecture**{: .label .label-green }Interactive Video
   : [Dr Oliver Michel](https://olivermichel.github.io/)
