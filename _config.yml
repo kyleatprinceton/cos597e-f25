@@ -41,7 +41,6 @@ callouts:
   assignment:
     title: Assignment
     color: green
-    opacity: 0.4
 
 # Collections for website data
 collections:
