@@ -26,5 +26,6 @@ Non-presenters should come prepared to actively participate in the
 discussion, and should have read the paper in detail prior to class
 and contributed to the Perusall discussion.
 
-By the end of the day, presenters should email their slides to the
+{: .assignment}
+By 11:59 PM ET Fridays, presenters should email their slides to the
 instructor for grading and inclusion on the course website.
