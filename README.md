@@ -8,7 +8,7 @@ seo:
   name: COS 597S Recent Advances in Wireless Networks
 ---
 
-# COS 597S Recent Advances in Wireless Networks
+# Recent Advances in Wireless Networks
 
 This graduate seminar will explore selected topics in wireless
 networks drawn from the recent research literature and industry. The
