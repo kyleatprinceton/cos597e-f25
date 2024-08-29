@@ -5,9 +5,10 @@ description: >-
     Course policies and information.
 ---
 
-# Advanced Topics in Computer Science- Recent Advances in Wireless Networks
+# Recent Advances in Wireless Networks
 {:.no_toc}
 
+{:style="text-align:center;"}
 ![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i_t.gif){:width="65%"}
 
 This graduate seminar will explore selected topics in wireless
@@ -30,7 +31,5 @@ congestion control/queue management.
 ## Grading
 
 - Class/Precept Participation: 30% (of this, 50% Perusall, 50% in-person)
-
 - Design Project (due on Dean’s Date): 40%
-
 - Oral Presentations: 30% (of this, 50% paper presentation, 50% design project presentation)
