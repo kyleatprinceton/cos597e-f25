@@ -21,6 +21,8 @@ network architecture, computational structures for physical-layer
 processing, millimeter-wave reconfigurable intelligent surfaces, and
 congestion control/queue management.
 
+Instructor: [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/)
+
 
 {:style="text-align:center;"}
 ![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i_t.gif){:width="65%"}
