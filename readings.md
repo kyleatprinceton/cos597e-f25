@@ -10,13 +10,13 @@ description: >-
 A major component of this course is reading and discussing research
 papers during meetings. To ensure a lively and focused discussion, you
 should closely read each paper and add comments and questions on
-Perusall by 11:59 PM Eastern Time on Wednesday night before the
-corresponding meeting.
+Perusall.
 
 {: .assignment}
 Please provide five to 10 substantive comments (some could be in
-thread replies) for each paper and also follow the comments from the
-other students and the course staff.
+thread replies) for each paper and follow comments from other students
+and the instructor, **by 11:59 PM ET Thursday** before the
+corresponding meeting.
 
 This seminar requires your full participation. Complete all assigned
 readings before class and come to class on time, prepared with
@@ -39,8 +39,9 @@ component of your class participation grade:
 - Answering questions from others
 - Upvoting thoughtful questions and helpful answers
 
-In addition, please come to class prepared with several points that
-will substantially contribute to the group discussion.
+{: .assignment}
+Please come to each meeting prepared with the following points
+that will substantially contribute to the group discussion.
 
 - What problem is the paper solving and why is that problem important?
 - What was the previous state of the art and how does this paper
