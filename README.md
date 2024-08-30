@@ -29,6 +29,15 @@ Instructor: [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/)
 
 Image credit: [xkcd](https://xkcd.com/1865/)
 
+This seminar is open to graduate students; undergraduate seniors
+interested in taking this course require permission from the
+instructor.  COS 461, ECE/COS 368, COS 333, COS 318, COS 316, and COS
+217 are all relevant to the material in 597S.  All participants of the
+seminar are required to present papers and lead discussions. Students
+taking this seminar for credit are required to complete an independent
+project either individually or in a small team, and deliver a project
+presentation at the end of the semester.
+
 ## Schedule
 
 - Thursdays, 11:59 PM: Online E-Discussion Deadline
