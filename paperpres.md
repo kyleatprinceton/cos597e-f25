@@ -12,7 +12,7 @@ papers during our meetings.  To kick this discussion off, a
 participant will present the paper being discussed in PowerPoint
 slides at the beginning of the session.
 
-Presentations should be 20-30 minutes, and cover the paper in depth,
+Presentations should be 30-45 minutes, and cover the paper in depth,
 i.e., not only the high-level framing, but also the detailed system
 design, implementation, evaluation, related work, and if applicable,
 impact on the field.
