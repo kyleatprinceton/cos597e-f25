@@ -107,8 +107,24 @@ deadlines, just before the Thanksgiving Recess, there will be a
 Project Checkpoint Report due.  This should be a draft version of your
 final project report.
 
-## Final Project Report
-This writeup should be six to eight pages of two-column text (excluding references) following USENIX formatLinks to an external site..  No appendices.
+## Final Project Deliverables
+
+There are three deliverbles for the final project: code, project
+presentation, and a paper.
+
+The code should be delivered as a URL to a private github repository
+owned by the Princeton University organization or your own github
+account.
+
+The project presentation should follow the same outline as a research
+paper presentation (minus the "opinion part") and will be 20-40
+minutes in length (TBA later in the semester).
+
+The paper should be six to eight pages of two-column text
+(excluding references) following [USENIX
+format](https://www.usenix.org/conferences/author-resources/paper-templates).
+Appendices should contain only Generative AI prompts if you used them
+in your project.
 
 ## Project Timeline
 
@@ -117,7 +133,6 @@ This writeup should be six to eight pages of two-column text (excluding referenc
 - October 5--October 24, 2024: Proposal Discussion Period (Ed
   Discussions)
 - October 25, 2024: Final Project Proposal deadline
-- November 22, 2024: Project Checkpoint Report deadline
 - December 13, 2024 (Dean's Date) 11:59 PM: Final Project Report and
   Final Source Code Submission deadline
 
