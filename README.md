@@ -46,6 +46,8 @@ presentation at the end of the semester.
 
 ## Grading
 
-- Class/Precept Participation: 30% (of this, 50% Perusall, 50% in-person)
+- Class/Precept Participation: 30% (of this, 50% Perusall, 50%
+  in-person)
 - Design Project (due on Dean’s Date): 40%
-- Oral Presentations: 30% (of this, 50% paper presentation, 50% design project presentation)
+- Oral Presentations: 30% (of this, 50% paper presentation, 50% design
+  project presentation)
