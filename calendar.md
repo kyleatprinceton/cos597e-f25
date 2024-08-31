@@ -15,5 +15,8 @@ as such are either covered in mini-lecture or supporting material.
 {{ module }}
 {% endfor %}
 
+
 {: .note}
 This calendar is preliminary and subject to revision.  
+
+

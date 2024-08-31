@@ -45,6 +45,7 @@ callouts:
   note:
     title: N.B.
     color: blue
+    opacity: 0.1
 
 # Collections for website data
 collections:
