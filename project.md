@@ -132,7 +132,7 @@ in your project.
 
 ## Collaboration Policy
 
-Students are encouraged to talk to each other and the instructor about
-the project, but assistance must be limited to discussion of the
-problem and sketching general approaches to a solution.  Each student
-or pair must produce their own work and write their own code.
+Students may talk to others about the project, but assistance must be
+limited to discussion of the problem and sketching general approaches
+to a solution.  Each team must independently produce their own work
+and write their own code.
