@@ -102,6 +102,7 @@ y-axis?)
 
 ## Final Project Deliverables
 
+{: .assignment}
 There are three deliverbles for the final project: code, project
 presentation, and a paper.
 
