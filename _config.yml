@@ -35,6 +35,7 @@ aux_links:
     - 'http://zotero.org/groups/5463939'
   Perusall:
     - 'https://princeton.instructure.com/courses/16429/external_tools/2724?display=borderless'
+aux_links_new_tab: true
 footer_content: "Copyright &copy; 2024 Kyle Jamieson."
 
 callouts:
