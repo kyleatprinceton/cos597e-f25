@@ -100,13 +100,6 @@ axis categories for each plot (i.e., what type of plot is it-
 line/bar/CDF/scatter plot?  What will be on the x-axis, and the
 y-axis?)
 
-## Project Checkpoint Report
-
-Halfway between the final project proposal and final project report
-deadlines, just before the Thanksgiving Recess, there will be a
-Project Checkpoint Report due.  This should be a draft version of your
-final project report.
-
 ## Final Project Deliverables
 
 There are three deliverbles for the final project: code, project
