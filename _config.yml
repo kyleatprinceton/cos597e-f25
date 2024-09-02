@@ -17,8 +17,8 @@ title: COS 597S
 tagline: Recent Advances in Wireless Networks (Fall 2024)
 description: Princeton Computer Science Department Seminar on Recent Advances in Wireless Networks (Fall 2024)
 author: Kyle Jamieson
-baseurl: '/' # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/cos597s' # the subpath of your site, e.g. /blog
+url: 'https://kyleatprinceton.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 favicon_ico: "/assets/images/favicon.ico"
 

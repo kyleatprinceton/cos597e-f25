@@ -7,8 +7,10 @@ description: Listing of course modules and topics.
 # Calendar
 
 Readings marked **Paper Discussion**{: .label .label-purple } are for
-[pre-reading and e-discussion](/cos597s/readings) by midnight Thursday
-and student [presentation](/cos597s/paperpres) in our Friday meetings.
+[pre-reading and e-discussion]({{ "/readings" | relative_url }})
+by midnight Thursday
+and student [presentation]({{ "/paperpres" | relative_url}})
+in our Friday meetings.
 Readings marked **Pre-Read**{: .label .label-green } are for
 pre-reading by Friday.  Readings not marked as such are either covered
 in our meeting or are supporting material to refer to after meeting.
