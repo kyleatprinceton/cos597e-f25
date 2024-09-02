@@ -8,13 +8,10 @@ description: >-
 # Independent Research Project
 
 The semester-long project in COS 597S is a systems-building project,
-done either individually or in a small team, that must involve
-significant programming and development effort.  If done in a small
-team, team members are expected to share equally in the implementation
-effort, and will describe each others' work at the end of the
-semester.  Teams of three of more should speak with the instructor
-before formation; for fairness to all, the size of the team is
-commensurate with the size of the expected deliverables.
+done either individually or in a small team[^1], that must involve
+significant programming and development effort.  
+
+[^1]: If done in a small team, team members are expected to share equally in the implementation effort, and will describe each others' work at the end of the semester.  Teams of three of more should speak with the instructor before formation; for fairness to all, the size of the team is commensurate with the size of the expected deliverables.
 
 ## Topic
 

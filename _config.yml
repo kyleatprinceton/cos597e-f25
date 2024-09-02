@@ -28,6 +28,10 @@ color_scheme: princeton
 search_enabled: false
 heading_anchors: true
 permalink: pretty
+back_to_top: true
+back_to_top_text: Back to top
+enable_copy_code_button: true
+
 aux_links:
   Perusall:
     - 'https://princeton.instructure.com/courses/16429/external_tools/2724?display=borderless'

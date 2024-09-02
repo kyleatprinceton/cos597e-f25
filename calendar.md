@@ -6,10 +6,12 @@ description: Listing of course modules and topics.
 
 # Calendar
 
-{: .assignment}
-Readings marked "Paper Discussion" are for E-Discussion by Thursday
-and student presentation in our Friday meetings.  Readings not marked
-as such are either covered in mini-lecture or supporting material.
+Readings marked **Paper Discussion**{: .label .label-purple } are for
+[pre-reading and e-discussion](/readings) by midnight Thursday and
+student [presentation](/paperpres) in our Friday meetings.  Readings
+marked **Pre-Read**{: .label .label-green } are for pre-reading
+by Friday.  Readings not marked as such are either covered in
+our meeting or are supporting material to refer to after meeting.
 
 {% for module in site.modules %}
 {{ module }}
