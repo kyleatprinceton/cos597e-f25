@@ -40,7 +40,7 @@ aux_links:
   Zotero:
     - 'http://zotero.org/groups/5463939/recent_advances_in_wireless_networks_fall_24/library'
 aux_links_new_tab: true
-footer_content: "Copyright &copy; 2024 Kyle Jamieson."
+footer_content:
 
 callouts:
   assignment:
