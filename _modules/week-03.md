@@ -11,6 +11,7 @@ Sep 20
 
 Sep 20
 : **Paper Discussion**{: .label .label-purple}[Copa](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/copa)
+  : HW lead
 
 Sep 27
 : **Paper Discussion**{: .label .label-purple}[ABC](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/abc-359550305)
@@ -22,6 +23,7 @@ Sep 27
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[RadioSaber](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/radiosaber)
+  : ZQ lead
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[DChannel](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/dchannel)
