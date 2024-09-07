@@ -18,6 +18,7 @@ Sep 27
 
 Sep 27
 : **Paper Discussion**{: .label .label-purple}[Zhuge](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/zhuge)
+  : YC lead
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[RadioSaber](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/radiosaber)
