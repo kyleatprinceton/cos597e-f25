@@ -8,6 +8,7 @@ Sep 20
 
 Sep 20
 : **Paper Discussion**{: .label .label-purple}[BBR](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/bbr-828834614)
+  : HH lead
 
 Sep 20
 : **Paper Discussion**{: .label .label-purple}[Copa](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/copa)
