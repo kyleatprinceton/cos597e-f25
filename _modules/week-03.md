@@ -14,6 +14,7 @@ Sep 20
 
 Sep 27
 : **Paper Discussion**{: .label .label-purple}[ABC](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/abc-359550305)
+  : AZ lead
 
 Sep 27
 : **Paper Discussion**{: .label .label-purple}[Zhuge](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/zhuge)
@@ -23,4 +24,5 @@ Oct 4
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[DChannel](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/dchannel)
+  : AZ lead
 : **Inital Project Proposal due**{: .label .label-red }
