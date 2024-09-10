@@ -33,6 +33,8 @@ back_to_top_text: Back to top
 enable_copy_code_button: true
 
 aux_links:
+  Canvas:
+    - 'https://princeton.instructure.com/courses/16429'
   Perusall:
     - 'https://princeton.instructure.com/courses/16429/external_tools/2724?display=borderless'
   Registrar:
