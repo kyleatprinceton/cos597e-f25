@@ -11,9 +11,9 @@ Sep 6
   : [Slides (HW)]({{ "/assets/documents/L01-zipper.pdf" | relative_url }})
 
 Sep 13
-: [5G Network Architecture II (KJ)](#)
+: [5G Network Architecture II (KJ)]({{ "/assets/documents/L02-5G.pdf" | relative_url }})
   : **Pre-Read**{: .label .label-green }[PSD Chp. 4-5](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/private5gasystemsapproach)
 
 Sep 13
 : **Paper Discussion**{: .label .label-purple }[EdgeRIC](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/edgeric)
-  : XC lead
+  : [Slides (XC)]({{ "/assets/documents/L02-edgeric.pdf" | relative_url }})
