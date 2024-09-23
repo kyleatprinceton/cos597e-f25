@@ -28,5 +28,5 @@ Oct 4
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[DChannel](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/dchannel){:target="_blank"}
-  : AZ lead
+  : YC lead
 : **Inital Project Proposal due**{: .label .label-red }
