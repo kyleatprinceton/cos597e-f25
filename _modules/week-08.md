@@ -16,3 +16,4 @@ Nov 1
 
 Nov 1
 : **Paper Discussion**{: .label .label-purple }[MMNet](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/mmnet){:target="_blank"}
+  : HW lead
