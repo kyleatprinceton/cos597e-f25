@@ -24,9 +24,9 @@ Sep 27
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[RadioSaber](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/radiosaber){:target="_blank"}
-  : ZQ lead
+  : [Slides (ZQ)]({{ "/assets/documents/L05-radiosaber.pdf" | relative_url }}){:target="_blank"}
 
 Oct 4
 : **Paper Discussion**{: .label .label-purple}[DChannel](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/dchannel){:target="_blank"}
-  : YC lead
+  : [Slides (YC)]({{ "/assets/documents/L05-dchannel.pdf" | relative_url }}){:target="_blank"}
 : **Inital Project Proposal due**{: .label .label-red }
