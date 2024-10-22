@@ -7,7 +7,7 @@ Oct 25
   : HH lead
 
 Oct 25
-: **Paper Discussion**{: .label .label-purple }[MDI-MIMO](#)
+: **Paper Discussion**{: .label .label-purple }[MDI-MIMO](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/mdi-mimo){:target="_blank"}
 : **Final Project Proposal due**{: .label .label-red}
 
 Nov 1
