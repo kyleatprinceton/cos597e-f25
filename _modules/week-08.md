@@ -4,7 +4,7 @@ title: Weeks 8-9 (Computational Structures for Physical-Layer RAN Processing)
 
 Oct 25
 : **Paper Discussion**{: .label .label-purple }[Ising](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/ising-machines-as-hardware-solvers){:target="_blank"}
-  : HH lead
+  : [Slides (HH)]({{ "/assets/documents/L08-ising.pdf" | relative_url}}){:target="_blank"}
 
 Oct 25
 : **Paper Discussion**{: .label .label-purple }[MDI-MIMO](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/mdi-mimo){:target="_blank"}
