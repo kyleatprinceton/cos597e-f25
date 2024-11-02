@@ -12,8 +12,8 @@ Oct 25
 
 Nov 1
 : **Paper Discussion**{: .label .label-purple }[DetNet](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/detnet){:target="_blank"}
-  : ZQ lead
+  : [Slides (ZQ)]({{ "/assets/documents/L09-detnet.pdf" | relative_url }}){:target="_blank"}
 
 Nov 1
 : **Paper Discussion**{: .label .label-purple }[MMNet](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/mmnet){:target="_blank"}
-  : HW lead
+  : [Slides (HW)]({{ "/assets/documents/L09-mmnet.pdf" | relative_url }}){:target="_blank"}
