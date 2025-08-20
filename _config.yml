@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: COS 597S
-tagline: Recent Advances in Wireless Networks (Fall 2024)
-description: Princeton Computer Science Department Seminar on Recent Advances in Wireless Networks (Fall 2024)
+title: COS 597E
+tagline: Neural Sensing, Modeling, and Understanding (Fall '25)
+description: Princeton Computer Science Department Seminar on Neural Sensing, Modeling, and Understanding (Fall '25)
 author: Kyle Jamieson
-baseurl: '/cos597s' # the subpath of your site, e.g. /blog
+baseurl: '/cos597e-f25' # the subpath of your site, e.g. /blog
 url: 'https://kyleatprinceton.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 favicon_ico: "/assets/images/favicon.ico"
@@ -34,15 +34,15 @@ enable_copy_code_button: true
 
 aux_links:
   Canvas:
-    - 'https://princeton.instructure.com/courses/16429'
+    - 'https://princeton.instructure.com/courses/18991'
   Ed:
-    - 'https://princeton.instructure.com/courses/16429/external_tools/889?display=borderless'
+    - 'https://princeton.instructure.com/courses/18991/external_tools/889?display=borderless'
   Perusall:
-    - 'https://princeton.instructure.com/courses/16429/external_tools/2724?display=borderless'
+    - 'https://princeton.instructure.com/courses/18991/external_tools/2724?display=borderless'
   Registrar:
-    - 'https://registrar.princeton.edu/course-offerings/course-details?term=1252&courseid=017431'
+    - 'https://registrar.princeton.edu/course-offerings/course-details?term=1262&courseid=002126'
   Zotero:
-    - 'http://zotero.org/groups/5463939/recent_advances_in_wireless_networks_fall_24/library'
+    - 'https://www.zotero.org/groups/6106523/cos_597e-_neural_sensing_modeling_and_understanding_fall_25/library'
 aux_links_new_tab: true
 footer_content:
 

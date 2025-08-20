@@ -1,28 +1,25 @@
 ---
 layout: home
-title: COS 597S
+title: COS 597E
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: COS 597S Recent Advances in Wireless Networks
+  name: COS 597E Neural Sensing, Modeling, and Understanding
 ---
 
-# Recent Advances in Wireless Networks
+# Neural Sensing, Modeling, and Understanding
 
-This graduate seminar will explore selected topics in wireless
-networks drawn from the recent research literature and industry. The
-approach is interdisciplinary and cross-layer, covering applications
-and end-to-end transport protocols, as well as physical- and
-link-layer design, aiming to gain an understanding of how their
-interactions influence performance. Areas of interest will include
-machine learning-based wireless channel modeling, 5G and Open RAN
-network architecture, computational structures for physical-layer
-processing, millimeter-wave reconfigurable intelligent surfaces, and
-congestion control/queue management.
+This graduate seminar explores selected topics in neural-driven
+wireless sensing drawn from the recent research literature and
+industry. Neural networks are opening up exciting new possibilities to
+harness the ambient wireless and acoustic transmissions around us for
+sensing purposes. Our smartphones, devices, and nearby cell towers and
+hotspots provide readily available signals that neural networks can
+analyze in order to create in situ models of the world, sense
+movements, and enable navigation of autonomous agents.
 
 Instructor: [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/)
-
 
 {:style="text-align:center;"}
 ![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i_t.gif){:width="65%"}
@@ -41,13 +38,11 @@ presentation at the end of the semester.
 ## Schedule
 
 - Thursdays, 11:59 PM: Online E-Discussion Deadline
-- Fridays, 1:30 PM--2:50 PM: Seminar Meeting in 302 Computer Science
-- Fridays, 3:00 PM--4:20 PM: Seminar Meeting in 302 Computer Science
+- Tuesdays, 2:00 PM--3:20 PM: Seminar Meeting in 301 Computer Science
+- Fridays, 3:00 PM--4:20 PM: Seminar Meeting in 301 Computer Science
 
 ## Grading
 
-- Participation: 30% (of this, 50% Perusall, 50%
-  in-person)
-- Oral Presentations: 30% (of this, 50% paper presentations, 50% design
-  project presentation)
+- Participation: 30% (of this, 50% Perusall, 50% in-person)
+- Oral Presentations: 30% (of this, 50% paper presentations, 50% design project presentation)
 - Research Project (due on Dean’s Date): 40%
