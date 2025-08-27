@@ -29,5 +29,5 @@ discussion, and should have read the paper in detail prior to class
 and contributed to the Perusall discussion.
 
 {: .assignment}
-By 11:59 PM ET Fridays, presenters should email their slides to the
-instructor for grading and inclusion on the website.
+By 11:59 PM ET the day before meeting, presenters should email their
+slides to the instructor for grading and inclusion on the website.

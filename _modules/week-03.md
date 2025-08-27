@@ -1,32 +1,19 @@
 ---
-title: Weeks 3-5 (Wireless-Cognizant Internet Congestion Control)
+title: Weeks 3-5 (Human Activity Recognition)
 ---
 
-Sep 20
-: [Internet Congestion Control, 1988-2024: A Primer (KJ)]({{ "/assets/documents/L03-congestion.pdf" | relative_url }}){:target="_blank"}
-  : [Van Jacobson](https://www.zotero.org/groups/5463939/recent_advances_in_wireless_networks_fall_24/collections/3RBACEQ3/items/XN7BYQ8Q/attachment/NZ8IBLZE/reader){:target="_blank"}, [CUBIC](https://www.zotero.org/groups/5463939/recent_advances_in_wireless_networks_fall_24/collections/3RBACEQ3/items/EW36YX3L/attachment/IUP5V287/reader){:target="_blank"}
+Sep 16
+: **Paper Discussion**{: .label .label-purple}[SeRadar](){:target="_blank"}
+<!--  : [Slides (HH)]({{ "/assets/documents/L03-bbr.pdf" |
+relative_url }}){:target="_blank"}-->
 
-Sep 20
-: **Paper Discussion**{: .label .label-purple}[BBR](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/bbr-828834614){:target="_blank"}
-  : [Slides (HH)]({{ "/assets/documents/L03-bbr.pdf" | relative_url }}){:target="_blank"}
+Sep 18
+: **Paper Discussion**{: .label .label-purple}[SLNet](){:target="_blank"}
+<!--  : [Slides (HW)]({{ "/assets/documents/L03-copa.pdf" |
+relative_url }}){:target="_blank"}-->
 
-Sep 20
-: **Paper Discussion**{: .label .label-purple}[Copa](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/copa){:target="_blank"}
-  : [Slides (HW)]({{ "/assets/documents/L03-copa.pdf" | relative_url }}){:target="_blank"}
-
-Sep 27
-: **Paper Discussion**{: .label .label-purple}[ABC](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/abc-359550305){:target="_blank"}
-  : [Slides (XC)]({{ "/assets/documents/L04-abc.pdf" | relative_url }}){:target="_blank"}
-
-Sep 27
-: **Paper Discussion**{: .label .label-purple}[Zhuge](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/zhuge){:target="_blank"}
-  : [Slides (YC)]({{ "/assets/documents/L04-zhuge.pdf" | relative_url }}){:target="_blank"}
-
-Oct 4
-: **Paper Discussion**{: .label .label-purple}[RadioSaber](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/radiosaber){:target="_blank"}
-  : [Slides (ZQ)]({{ "/assets/documents/L05-radiosaber.pdf" | relative_url }}){:target="_blank"}
-
-Oct 4
-: **Paper Discussion**{: .label .label-purple}[DChannel](https://app.perusall.com/courses/cos597s_f2024-advanced-topics-in-computer-science-recent-advances-in-wireless-networks/dchannel){:target="_blank"}
-  : [Slides (YC)]({{ "/assets/documents/L05-dchannel.pdf" | relative_url }}){:target="_blank"}
+Sep 23
+: **Paper Discussion**{: .label .label-purple}[Cosmo](){:target="_blank"}
 : **Inital Project Proposal due**{: .label .label-red }
+<!--  : [Slides (XC)]({{ "/assets/documents/L04-abc.pdf" |
+relative_url }}){:target="_blank"}-->

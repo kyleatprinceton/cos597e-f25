@@ -1,6 +1,9 @@
 ---
-title: Week 12 (Student Project Presentations)
+title: Week 12 (Distributed Acoustical Sensing with Optical Fiber Networks)
 ---
 
-Nov 22
-: **Project Presentations**{: .label .label-yellow }
+Nov 18
+: **Paper Discussion**{: .label .label-purple }[TBA]()
+
+Nov 20
+: **Paper Discussion**{: .label .label-purple }[TBA]()

@@ -37,9 +37,8 @@ presentation at the end of the semester.
 
 ## Schedule
 
-- Thursdays, 11:59 PM: Online E-Discussion Deadline
-- Tuesdays, 2:00 PM--3:20 PM: Seminar Meeting in 301 Computer Science
-- Fridays, 3:00 PM--4:20 PM: Seminar Meeting in 301 Computer Science
+- Tuesdays, 2:55 PM--4:15 PM: Seminar Meeting in 301 Computer Science
+- Thursdays, 2:55 PM--4:15 PM: Seminar Meeting in 301 Computer Science
 
 ## Grading
 
