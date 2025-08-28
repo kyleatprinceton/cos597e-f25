@@ -22,9 +22,9 @@ movements, and enable navigation of autonomous agents.
 Instructor: [Kyle Jamieson](https://www.cs.princeton.edu/~kylej/)
 
 {:style="text-align:center;"}
-![xkcd cartoon](assets/images/wifi_vs_cellular_2x_r_i_t.gif){:width="65%"}
+![xkcd cartoon](assets/images/trained_a_neural_net_2x_k4_r_t.gif){:width="35%"}
 
-Image credit: [xkcd](https://xkcd.com/1865/)
+Image credit: [xkcd](https://xkcd.com/2173/)
 
 This seminar is open to graduate students; undergraduate seniors
 interested in taking this course require permission from the
