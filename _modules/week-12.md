@@ -3,7 +3,9 @@ title: Week 12 (Distributed Acoustical Sensing with Optical Fiber Networks)
 ---
 
 Nov 18
-: **Paper Discussion**{: .label .label-purple }[TBA]()
+: **Paper Discussion**{: .label .label-purple }[DAS](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/das){:target="_blank"} (Distributed
+Acoustic Sensing)
 
 Nov 20
-: **Paper Discussion**{: .label .label-purple }[TBA]()
+: **Paper Discussion**{: .label .label-purple }[IPS](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/ips){:target="_blank"} (Internet
+Photonic Sensing)
