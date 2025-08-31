@@ -5,7 +5,7 @@ title: Weeks 1-2 (Digital Twins; Ray Tracing; NERF)
 Sep 2 
 : [Seminar Introduction]({{ "about:blank" | relative_url
 }}){:target="_blank"}
-: **Pre-Read**{: .label .label-purple }[Ruah](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/calibrating-wireless-ray-tracing-for-digital-twinning-using-local-phase-error-estimates){:target="_blank"}
+: **Pre-Read**{: .label .label-purple }[Sionna](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/sionna){:target="_blank"}
   : [Keshav](https://www.zotero.org/groups/6106523/cos_597e-_neural_sensing_modeling_and_understanding_fall_25/items/BJYKDJBV/attachment/DGXUS84Q/reader){:target="_blank"}, [Related Work Notes]({{ "/assets/documents/How to Explore Related Work 2024.pdf" | relative_url }}){:target="_blank"}
 
 Sep 4
