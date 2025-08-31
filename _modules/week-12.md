@@ -1,5 +1,5 @@
 ---
-title: Week 12 (Distributed Acoustical Sensing with Optical Fiber Networks)
+title: Week 12 (Sensing with Optical Fiber)
 ---
 
 Nov 18

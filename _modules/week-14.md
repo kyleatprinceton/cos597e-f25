@@ -1,5 +1,5 @@
 ---
-title: Week 14 (Distributed Acoustical Sensing with Optical Fiber Networks)
+title: Week 14 (Sensing with Optical Fiber)
 ---
 
 Dec 2
