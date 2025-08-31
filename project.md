@@ -7,7 +7,7 @@ description: >-
 
 # Independent Research Project
 
-The semester-long project in COS 597S is a systems-building project,
+The semester-long project in COS 597E is a systems-building project,
 done either individually or in a small team[^1], that must involve
 significant programming and development effort.  
 
@@ -15,7 +15,7 @@ significant programming and development effort.
 
 ## Topic
 
-There are two types of projects in 597S:
+There are two types of projects in 597E:
 
 ### Reimplementing and Reproducing Research Project
 
@@ -33,7 +33,7 @@ experimental results.
 ### Novel Research Project
 
 Novel research project topics must be closely related to the content
-and topics taught in 597S, and must be formulated after discussion and
+and topics taught in 597E, and must be formulated after discussion and
 consultation with the instructor, who will take a narrow view of which
 project satisfy this criterion (e.g. your ongoing research on
 superconducting quantum devices will not likely be approved).
@@ -77,7 +77,7 @@ not be addressed in the original paper.
 Begin with a background paragraph introducing the problem your
 research project is attempting to solve and why it is an important
 problem to solve.  Include an explanation of how your problem relates
-to the topics and/or papers of 597S.  Include a discussion of the
+to the topics and/or papers of 597E.  Include a discussion of the
 problem's novelty: what's the current state of the art in the research
 literature (and possibly industry), and why are these approaches
 insufficient?  What is your novel technical insight or approach to
@@ -121,12 +121,12 @@ in your project.
 
 ## Project Timeline
 
-- October 4, 2024: Team Formation and Initial Project Proposal
+- Septmber 23, 2025: Team Formation and Initial Project Proposal
   deadline
-- October 5--October 24, 2024: Proposal Discussion Period (Ed
+- September 23--October 23, 2025: Proposal Discussion Period (Ed
   Discussions)
-- October 25, 2024: Final Project Proposal deadline
-- December 13, 2024 (Dean's Date) 11:59 PM: Final Project Report and
+- October 23, 2025: Final Project Proposal deadline
+- December 12, 2025 (Dean's Date) 11:59 PM: Final Project Report and
   Final Source Code Submission deadline
 
 ## Collaboration Policy

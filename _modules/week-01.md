@@ -10,6 +10,7 @@ Sep 2
 
 Sep 4
 : **Paper Discussion**{: .label .label-purple }[NERF2](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/nerf2-23997153){:target="_blank"}
+  : (XC)
 <!--  : [Slides]({{ "about:blank" | relative_url }}){:target="_blank"} -->
 
 Sep 9

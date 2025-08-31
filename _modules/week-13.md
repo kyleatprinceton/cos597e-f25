@@ -1,10 +1,11 @@
 ---
-title: Thanksgiving
+title: Week 13
 ---
 
 Nov 25
 : **No Meeting**{: .label .label-yellow }
-  : Friday Class Meeting Pattern
+  : Thanksgiving (Friday Class Meeting Pattern)
 
 Nov 27
 : **No Meeting**{: .label .label-yellow }
+  : Thanksgiving
