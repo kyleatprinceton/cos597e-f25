@@ -7,7 +7,7 @@ description: >-
 
 # Research Paper Presentations
 
-A major component of this course is reading and discussing research
+A major component of this seminar is reading and discussing research
 papers during our meetings.  To kick this discussion off, a
 participant will present the paper being discussed in PowerPoint
 slides at the beginning of the session.
@@ -20,8 +20,8 @@ impact on the field.
 Presenters should also come prepared with questions and ideas to seed
 the discussion, both based on their own thoughts, and also based on
 questions/feedback from the class on Perusall (available by the
-Thursday 11:59 PM deadline).  The end of your presentation should
-contain an "opinion part" followed by an interactive "deep dive" into
+day-before 11:59 PM deadline).  The end of your presentation should
+contain an "opinion part," followed by an interactive "deep dive" into
 the discussion threads accumulated over the week on Perusall.
 
 Non-presenters should come prepared to actively participate in the
