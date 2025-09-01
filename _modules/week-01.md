@@ -15,6 +15,7 @@ Sep 4
 
 Sep 9
 : **Paper Discussion**{: .label .label-purple }[PanoRadar](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/panoradar){:target="_blank"}
+  : (SJ)
 
 Sep 11
 : **No Meeting**{: .label .label-yellow }
