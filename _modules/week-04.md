@@ -18,4 +18,5 @@ Oct 7
 
 Oct 9
 : **Paper Discussion**{: .label .label-purple }[RF-SCG](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/rf-scg){:target="_blank"}
+  : (KL)
 

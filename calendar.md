@@ -7,7 +7,7 @@ description: Listing of course modules and topics.
 # Calendar
 
 <!-- With one exception[^1] --> All meetings are in-person, Tuesdays
-and Thursdays 2:55&ndash;4:15&nbsp;PM in Room 301 Computer Science.
+and Thursdays 3:00&ndash;4:15&nbsp;PM in Room 301 Computer Science.
 
 Readings marked **Paper Discussion**{: .label .label-purple } are for
 [pre-reading and e-discussion]({{ "/readings" | relative_url }})
