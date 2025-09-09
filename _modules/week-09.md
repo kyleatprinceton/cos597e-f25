@@ -4,6 +4,7 @@ title: Weeks 9-11 (Ambient/Integrated Sensing and Communication)
 
 Oct 30
 : **Paper Discussion**{: .label .label-purple }[LSencom](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/lsencom){:target="_blank"}
+  : (RI)
 
 Nov 4
 : **No Meeting**{: .label .label-yellow }

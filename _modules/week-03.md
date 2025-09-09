@@ -10,6 +10,7 @@ relative_url }}){:target="_blank"}-->
 
 Sep 18
 : **Paper Discussion**{: .label .label-purple}[SLNet](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/slnet){:target="_blank"}
+  : (KL)
 <!--  : [Slides (HW)]({{ "/assets/documents/L03-copa.pdf" |
 relative_url }}){:target="_blank"}-->
 
