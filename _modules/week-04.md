@@ -13,6 +13,7 @@ relative_url }}){:target="_blank"}  -->
 
 Oct 2
 : **Paper Discussion**{: .label .label-purple }[EarSpiro](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/earspiro){:target="_blank"}
+  : (KL)
 
 Oct 7
 : **Paper Discussion**{: .label .label-purple }[Asclepius](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/asclepius){:target="_blank"}
