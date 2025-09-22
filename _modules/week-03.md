@@ -13,4 +13,4 @@ Sep 18
 Sep 23
 : **Paper Discussion**{: .label .label-purple}[Cosmo](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/cosmo){:target="_blank"}
   : (YC)
-: **Inital Project Proposal due**{: .label .label-red }
+
