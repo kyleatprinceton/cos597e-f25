@@ -121,9 +121,9 @@ in your project.
 
 ## Project Timeline
 
-- Septmber 23, 2025: Team Formation and Initial Project Proposal
+- October 9, 2025: Team Formation and Initial Project Proposal
   deadline
-- September 23--October 23, 2025: Proposal Discussion Period (Ed
+- October 9--23, 2025: Proposal Discussion Period (Ed
   Discussions)
 - October 23, 2025: Final Project Proposal deadline
 - December 12, 2025 (Dean's Date) 11:59 PM: Final Project Report and
