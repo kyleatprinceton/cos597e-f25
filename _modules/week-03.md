@@ -1,5 +1,5 @@
 ---
-title: Weeks 3-5 (Human Activity Recognition)
+title: Weeks 3-4 (Human Activity Recognition)
 ---
 
 Sep 16
