@@ -1,5 +1,5 @@
 ---
-title: Weeks 4-6 (Guest Lecture; E-Health)
+title: Weeks 4-6 (Guest Lectures; E-Health)
 ---
 
 Sep 25
@@ -7,7 +7,7 @@ Sep 25
 
 Sep 30
 : **Paper Discussion**{: .label .label-purple }[MEDUSA](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/medusa){:target="_blank"}
-  : (RI)
+  : [Slides]({{ "/assets/documents/MEDUSA-RI.pdf" | relative_url }}){:target="_blank"} (RI)
 
 Oct 2
 : **Paper Discussion**{: .label .label-purple }[EarSpiro](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/earspiro){:target="_blank"}
@@ -18,6 +18,6 @@ Oct 7
   : (RI)
 
 Oct 9
-: **Paper Discussion**{: .label .label-purple }[RF-SCG](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/rf-scg){:target="_blank"}
-  : (KL)
+: **Guest Lecture**{: .label .label-yellow }[Prof. Herb Wang](https://scholar.google.com/citations?user=X5C3c_8AAAAJ&hl=en)
+: **Guest Lecture**{: .label .label-yellow }[Dr. Giovanni Milione](https://www.nec-labs.com/research/optical-networking-sensing/people/giovanni-milione/)
 : **Inital Project Proposal due**{: .label .label-red }
