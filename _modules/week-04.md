@@ -15,7 +15,7 @@ Oct 2
 
 Oct 7
 : **Paper Discussion**{: .label .label-purple }[Asclepius](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/asclepius){:target="_blank"}
-  : (RI)
+  : [Slides]({{ "/assets/documents/Asclepius-RI.pdf" | relative_url }}){:target="_blank"} (RI)
 
 Oct 9
 : **Guest Lecture**{: .label .label-yellow }[Prof. Herb Wang](https://scholar.google.com/citations?user=X5C3c_8AAAAJ&hl=en)
