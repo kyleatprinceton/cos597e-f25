@@ -125,7 +125,7 @@ in your project.
   deadline
 - October 9--23, 2025: Proposal Discussion Period (Ed
   Discussions)
-- October 23, 2025: Final Project Proposal deadline
+- October 31, 2025: Final Project Proposal deadline
 - December 12, 2025 (Dean's Date) 11:59 PM: Final Project Report and
   Final Source Code Submission deadline
 
