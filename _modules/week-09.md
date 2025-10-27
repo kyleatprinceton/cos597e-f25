@@ -7,7 +7,8 @@ Oct 28
   : (RI)
 
 Oct 30
-: **TBA**{: .label .label-red}
+: **Paper Discussion**{: .label .label-purple }[GPSense](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/gpsense){:target="_blank"}
+  : (YC)
 
 Oct 31
 : **Final Project Proposal due**{: .label .label-red}
@@ -22,5 +23,4 @@ Nov 11
 : **Paper Discussion**{: .label .label-purple }[HiSAC](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/hisac){:target="_blank"}
   
 Nov 13
-: **Paper Discussion**{: .label .label-purple }[GPSense](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/gpsense){:target="_blank"}
-  : (YC)
+: **TBA**{: .label .label-red}
