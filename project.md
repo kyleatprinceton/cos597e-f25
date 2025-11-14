@@ -110,8 +110,8 @@ owned by the Princeton University organization or your own github
 account.
 
 The project presentation should follow the same outline as a research
-paper presentation (minus the "opinion part") and will be 20-40
-minutes in length (TBA later in the semester).
+paper presentation (minus the "opinion part") and will be 30
+minutes in length (plus 5-10 minutes for Q&A).
 
 The paper should be six to eight pages of two-column text
 (excluding references) following [USENIX
