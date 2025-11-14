@@ -8,7 +8,7 @@ Oct 28
 
 Oct 30
 : **Paper Discussion**{: .label .label-purple }[GPSense](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/gpsense){:target="_blank"}
-  : (YC)
+  : [Slides]({{ "/assets/documents/GPSense-YC.pdf" | relative_url }}){:target="_blank"} (YC)
 
 Oct 31
 : **Final Project Proposal due**{: .label .label-red}
