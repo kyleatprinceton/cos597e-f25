@@ -15,4 +15,4 @@ Nov 18
   : (SJ)
 
 Nov 20
-: **TBA**{: .label .label-red}
+: Roundtable discussion: Project check-in
