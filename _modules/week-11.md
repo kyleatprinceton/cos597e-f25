@@ -12,7 +12,7 @@ Nov 13
 
 Nov 18
 : **Paper Discussion**{: .label .label-purple }[DAS](https://app.perusall.com/courses/cos597e_f2025-advanced-topics-in-computer-science-neural-sensing-modeling-and-understanding/das){:target="_blank"} (Distributed Acoustic Sensing)
-  : (SJ)
+  : [Slides]({{ "/assets/documents/DAS-SJ.pdf" | relative_url }}){:target="_blank"} (SJ)
 
 Nov 20
 : Roundtable discussion: Project check-in
